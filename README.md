@@ -1,2 +1,2 @@
-# redwineEDA
-EDA project using R
+# EDA on a red wine data
+This project focused on learning and using R to explore a dataset containing red wine chemical attributes and ratings given. The aim of the project was to explore and visualize the dataset using R's ggplot library. Some light data wrangling was done, however, the dataset was already in a nice and tidy state. This project was a part of the Udacity's Data Analyst nanodegree. 
